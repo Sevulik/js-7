@@ -19,9 +19,8 @@
 //     { name: 'Vali', age: 25 },
 //     { name: 'Sami', age: 22 }
 // ]
-// obj.forEach(item => {
-//   console.log(`${item.name}: ${item.age}`);
-// });
+// obj.map(v=> console.log(v.name,v.age));
+
 
 // js 7.3
 
